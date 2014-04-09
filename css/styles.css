@@ -608,7 +608,7 @@ input.button {
 	width: 100%;
 	color: #FFF;
 	background-color: #4EADAD;
-	padding: 0.7em 0;
+	line-height: 2.6em;
 	margin-top: 1.2em;
 	text-decoration: none;
 	border: 1px solid #439696;
