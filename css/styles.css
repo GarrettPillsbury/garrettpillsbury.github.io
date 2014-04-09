@@ -511,7 +511,7 @@ a:hover, a:focus {
 
 article {
 	max-width: 600px;
-	margin: 3em auto;
+	margin: 2em auto 3em;
 
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
