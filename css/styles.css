@@ -485,6 +485,7 @@ a:hover, a:focus {
 	font: normal 400 1em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
 	float: left;
 	color: #919191;
+	margin-bottom: 1.1em;
 }
 
 #article-nav ul {
