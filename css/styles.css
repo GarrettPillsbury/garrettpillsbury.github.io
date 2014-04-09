@@ -100,7 +100,7 @@ h1 {
 }
 
 h2 {
-	font: normal 700 1.5em "ff-tisa-web-pro", Helvetica Neue, Arial, sans-serif;
+	font: normal 700 1.4em "ff-tisa-web-pro", Helvetica Neue, Arial, sans-serif;
 	color: #515151;
 	line-height: 1.3em;
 	margin: 1.8em 0 0.4em;
@@ -590,6 +590,8 @@ div.mc-field-group input {
 	border-radius: 4px;
 
 	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
 
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
@@ -630,6 +632,8 @@ input.button {
 	border-radius: 4px;
 
 	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
 
 	-webkit-transition: all 0.12s ease;
 	-moz-transition: all 0.12s ease;
