@@ -589,6 +589,8 @@ div.mc-field-group input {
 	-moz-border-radius: 4px;
 	border-radius: 4px;
 
+	-webkit-appearance: none;
+
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
@@ -626,6 +628,8 @@ input.button {
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	border-radius: 4px;
+
+	-webkit-appearance: none;
 
 	-webkit-transition: all 0.12s ease;
 	-moz-transition: all 0.12s ease;
