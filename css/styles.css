@@ -458,7 +458,7 @@ a:hover, a:focus {
 }
 
 #articles a {
-	font: normal 400 2em "ff-tisa-web-pro", Helvetica Neue, Arial, sans-serif;
+	font: normal 400 1.8em "ff-tisa-web-pro", Helvetica Neue, Arial, sans-serif;
 	line-height: 1.3em;
 	text-decoration: none;
 }
