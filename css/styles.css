@@ -344,6 +344,7 @@ a:hover {
 	color: #515151;
 	line-height: 1.3em;
 	margin: 1em 0 0.5em;
+	letter-spacing: -0.02em;
 }
 
 #people ul li p {
