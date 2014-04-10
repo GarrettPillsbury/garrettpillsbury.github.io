@@ -530,6 +530,13 @@ article h2 {
 	margin-bottom: 1em;
 }
 
+article p {
+	line-height: 1.6em;
+	word-spacing: 0.01em;
+	letter-spacing: 0.01em;
+	margin-bottom: 1.6em;
+}
+
 #footer {
 	border-top: 1px solid #E5E5E5;
 	padding: 1.8em 0 2em;
