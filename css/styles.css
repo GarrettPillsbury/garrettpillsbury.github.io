@@ -319,6 +319,10 @@ a:hover {
 	font-smoothing: antialiased;
 }
 
+#main-content p {
+	letter-spacing: 0.01em;
+}
+
 #people {
 	padding: 3em 0 1em;
 }
