@@ -321,7 +321,6 @@ a:hover {
 }
 
 #main-content p {
-	letter-spacing: 0.01em;
 	word-spacing: 0.01em;
 }
 
@@ -543,7 +542,6 @@ article p {
 	font-size: 1.3em;
 	line-height: 1.6em;
 	word-spacing: 0.01em;
-	letter-spacing: 0.01em;
 	margin-bottom: 1.6em;
 }
 
