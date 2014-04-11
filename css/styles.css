@@ -97,7 +97,6 @@ h1 {
 	font: normal 700 2.6em "adelle", Helvetica Neue, Arial, sans-serif;
 	color: #515151;
 	line-height: 1.2em;
-	letter-spacing: -0.02em;
 }
 
 h2 {
@@ -116,7 +115,7 @@ h3 {
 }
 
 p {
-	font: normal 400 1.25em "ff-tisa-web-pro", Helvetica Neue, Arial, sans-serif;
+	font: normal 400 1.25em "rooney-web", Helvetica Neue, Arial, sans-serif;
 	color: #414141;
 	line-height: 1.5em;
 	margin-bottom: 1em;
@@ -427,7 +426,7 @@ a:hover {
 }
 
 #customers ul li p {
-	font: normal 400 1.5em "ff-tisa-web-pro", Helvetica Neue, Arial, sans-serif;
+	font: normal 400 1.5em "rooney-web", Helvetica Neue, Arial, sans-serif;
 	color: #515151;
 	line-height: 1.5em;
 	letter-spacing: 0.01em;
@@ -466,13 +465,13 @@ a:hover {
 }
 
 #articles a {
-	font: normal 400 1.8em "ff-tisa-web-pro", Helvetica Neue, Arial, sans-serif;
+	font: normal 400 1.8em "adelle", Helvetica Neue, Arial, sans-serif;
 	line-height: 1.3em;
 	text-decoration: none;
 }
 
 #articles p {
-	font: normal 400 1.2em "ff-tisa-web-pro", Helvetica Neue, Arial, sans-serif;
+	font: normal 400 1.2em "rooney-web", Helvetica Neue, Arial, sans-serif;
 	line-height: 1.5em;
 	margin-top: 0.8em;
 
@@ -533,7 +532,7 @@ article h1 {
 }
 
 article h2 {
-	font: normal 700 1.5em "ff-tisa-web-pro", Helvetica Neue, Arial, sans-serif;
+	font: normal 700 1.5em "adelle", Helvetica Neue, Arial, sans-serif;
 	line-height: 1.3em;
 	margin-bottom: 1em;
 }
