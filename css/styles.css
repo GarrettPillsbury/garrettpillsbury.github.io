@@ -459,6 +459,10 @@ a:hover {
 	max-width: 600px;
 	margin: 3em auto 4em;
 	text-align: center;
+
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	font-smoothing: antialiased;
 }
 
 #articles ul li {
@@ -466,7 +470,7 @@ a:hover {
 }
 
 #articles a {
-	font: normal 400 1.8em "adelle", Helvetica Neue, Arial, sans-serif;
+	font: normal 600 1.7em "adelle", Helvetica Neue, Arial, sans-serif;
 	line-height: 1.3em;
 	text-decoration: none;
 }
@@ -474,11 +478,7 @@ a:hover {
 #articles p {
 	font: normal 400 1.2em "rooney-web", Helvetica Neue, Arial, sans-serif;
 	line-height: 1.5em;
-	margin-top: 0.8em;
-
-	-webkit-font-smoothing: antialiased;
-	-moz-font-smoothing: antialiased;
-	font-smoothing: antialiased;
+	margin-top: 0.4em;
 }
 
 #article-nav {
