@@ -131,7 +131,7 @@ a {
 	transition: all 0.12s ease;
 }
 
-a:hover {
+a:hover, a:focus {
 	opacity: 0.6
 }
 
