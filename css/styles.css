@@ -103,8 +103,8 @@ h1 {
 h2 {
 	font: normal 700 1.4em "adelle", Helvetica Neue, Arial, sans-serif;
 	color: #515151;
-	line-height: 1.3em;
-	margin: 1.8em 0 0.4em;
+	line-height: 1.4em;
+	margin: 1.8em 0 0.5em;
 }
 
 h3 {
@@ -478,7 +478,8 @@ a:hover {
 #articles p {
 	font: normal 400 1.2em "rooney-web", Helvetica Neue, Arial, sans-serif;
 	line-height: 1.5em;
-	margin-top: 0.4em;
+	margin-top: 0.5em;
+	letter-spacing: -0.01em;
 }
 
 #article-nav {
