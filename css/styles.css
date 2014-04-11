@@ -320,7 +320,7 @@ a:hover {
 }
 
 #main-content p {
-	word-spacing: 0.01em;
+	letter-spacing: -0.01em;
 }
 
 #people {
@@ -541,6 +541,7 @@ article p {
 	font-size: 1.3em;
 	line-height: 1.6em;
 	margin-bottom: 1.6em;
+	letter-spacing: -0.01em;
 }
 
 #footer {
