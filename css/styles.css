@@ -427,7 +427,7 @@ a:hover {
 
 #customers ul li p {
 	font: normal 400 1.5em "rooney-web", Helvetica Neue, Arial, sans-serif;
-	color: #919191;
+	color: #515151;
 	line-height: 1.5em;
 	letter-spacing: 0.01em;
 	word-spacing: 0.01em;
@@ -436,7 +436,7 @@ a:hover {
 
 #customers ul li div {
 	font: normal 400 1.1em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
-	color: #515151;
+	color: #919191;
 }
 
 #more {
