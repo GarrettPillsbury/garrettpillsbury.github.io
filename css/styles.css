@@ -430,8 +430,7 @@ a:hover, a:focus {
 	font: normal 400 1.5em "rooney-web", Helvetica Neue, Arial, sans-serif;
 	color: #515151;
 	line-height: 1.5em;
-	letter-spacing: 0.01em;
-	word-spacing: 0.01em;
+	letter-spacing: -0.01em;
 	margin-bottom: 1em;
 }
 
