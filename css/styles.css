@@ -97,6 +97,7 @@ h1 {
 	font: normal 600 2.6em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
 	color: #515151;
 	line-height: 1.2em;
+	letter-spacing: -0.02em;
 }
 
 h2 {
@@ -529,6 +530,7 @@ article h1 {
 	font: normal 700 2.6em "adelle", Helvetica Neue, Arial, sans-serif;
 	line-height: 1.3;
 	margin-bottom: 1em;
+	letter-spacing: 0;
 }
 
 article h2 {
