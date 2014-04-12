@@ -439,6 +439,7 @@ a:hover, a:focus {
 #customers ul li div {
 	font: normal 400 1.1em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
 	color: #919191;
+	letter-spacing: -0.02em;
 }
 
 #more {
