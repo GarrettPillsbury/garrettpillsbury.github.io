@@ -276,7 +276,8 @@ a:hover, a:focus {
 	background-color: #4EADAD;
 	padding: 0.7em 1em;
 	text-decoration: none;
-	border: 1px solid #439696;	
+	border: 1px solid #439696;
+	letter-spacing: -0.02em;
 
 	-webkit-box-shadow: inset 0 -2px 0 #439696, inset 0 1px 0 #7bc4c4;
 	-moz-box-shadow: inset 0 -2px 0 #439696, inset 0 1px 0 #7bc4c4;
@@ -611,6 +612,7 @@ div.mc-field-group input {
 	text-align: center;
 	padding: 0.7em 0;
 	outline: none;
+	letter-spacing: -0.02em;
 
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
@@ -645,6 +647,7 @@ input.button {
 	border: 1px solid #439696;
 	cursor: pointer;
 	outline: none;
+	letter-spacing: -0.02em;
 
 	-webkit-box-shadow: inset 0 -2px 0 #439696, inset 0 1px 0 #7bc4c4;
 	-moz-box-shadow: inset 0 -2px 0 #439696, inset 0 1px 0 #7bc4c4;
