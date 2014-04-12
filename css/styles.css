@@ -594,7 +594,7 @@ article p {
 #mc_embed_signup {
 	max-width: 300px;
 	margin: 0 auto;
-	padding-top: 2em;
+	padding: 2em 0 1em;
 }
 
 div.mc-field-group input {
