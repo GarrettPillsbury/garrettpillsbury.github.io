@@ -258,6 +258,7 @@ a:hover, a:focus {
 	line-height: 1.6em;
 	margin: 1em auto 0;
 	max-width: 560px;
+	letter-spacing: -0.02em;
 }
 
 #hero img {
@@ -350,6 +351,7 @@ a:hover, a:focus {
 	font: normal 400 0.9em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
 	color: #818181;
 	line-height: 1.5em;
+	letter-spacing: -0.02em;
 }
 
 .avatar {
@@ -452,6 +454,7 @@ a:hover, a:focus {
 	font: normal 400 1.1em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
 	line-height: 1.4em;
 	margin-bottom: 0.6em;
+	letter-spacing: -0.02em;
 }
 
 #articles {
@@ -562,6 +565,7 @@ article p {
 	color: #818181;
 	line-height: 1.7em;
 	margin-bottom: 3em;
+	letter-spacing: -0.02em;
 }
 
 #footer-logo {
