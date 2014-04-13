@@ -476,7 +476,7 @@ a:hover, a:focus {
 #article-nav {
 	max-width: 600px;
 	margin: 0 auto;
-	padding: 1.2em 0 0;
+	padding: 1.2em 0 1em;
 	border-top: 1px solid #E5E5E5;
 	border-bottom: 1px solid #E5E5E5;
 }
@@ -486,6 +486,7 @@ a:hover, a:focus {
 	float: left;
 	color: #919191;
 	line-height: 1em;
+	margin-bottom: 0;
 }
 
 #article-nav ul {
@@ -497,8 +498,9 @@ a:hover, a:focus {
 }
 
 #article-nav ul li a {
-	padding: 1em 1.4em 0.9em;
+	padding: 1.2em 1.4em 0.9em;
 	text-decoration: none;
+	vertical-align: middle;
 }
 
 #article-nav ul li:last-child a {
