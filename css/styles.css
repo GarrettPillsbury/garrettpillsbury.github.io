@@ -16,6 +16,8 @@ body {
 	max-width: 900px;
 	margin: 0 auto;
 	background-color: #FFF;
+
+	-webkit-text-size-adjust: none;
 }
 
 img {
