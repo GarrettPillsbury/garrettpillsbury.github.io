@@ -341,7 +341,7 @@ a:hover, a:focus {
 	height: 110px;
 	width: 110px;
 	background-position: center;
-	background-size: 100%;
+	background-size: 110px;
 	margin: 0 auto;
 
 	-webkit-border-radius: 100%;
