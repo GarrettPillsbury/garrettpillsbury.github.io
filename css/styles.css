@@ -98,14 +98,14 @@ img {
 
 h1 {
 	font: normal 600 2.6em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
-	color: #515151;
+	color: #2A2A2A;
 	line-height: 1.2em;
 	letter-spacing: -0.02em;
 }
 
 h2 {
 	font: normal 700 1.4em "adelle", Helvetica Neue, Arial, sans-serif;
-	color: #515151;
+	color: #2A2A2A;
 	line-height: 1.4em;
 	margin: 1.8em 0 0.4em;
 }
@@ -120,7 +120,7 @@ h3 {
 
 p {
 	font: normal 400 1.25em "rooney-web", Helvetica Neue, Arial, sans-serif;
-	color: #414141;
+	color: #2A2A2A;
 	line-height: 1.5em;
 	margin-bottom: 1em;
 }
@@ -257,7 +257,7 @@ a:hover, a:focus {
 
 #hero p {
 	font: normal 400 1.1em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
-	color: #919191;
+	color: #818181;
 	line-height: 1.6em;
 	margin: 1em auto 0;
 	max-width: 560px;
@@ -324,7 +324,7 @@ a:hover, a:focus {
 
 #name {
 	font: normal 600 1.2em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
-	color: #515151;
+	color: #2A2A2A;
 	line-height: 1.3em;
 	margin: 1em 0 0.5em;
 	letter-spacing: -0.02em;
@@ -413,7 +413,7 @@ a:hover, a:focus {
 
 #customers ul li p {
 	font: normal 400 1.5em "rooney-web", Helvetica Neue, Arial, sans-serif;
-	color: #515151;
+	color: #2A2A2A;
 	line-height: 1.5em;
 	letter-spacing: -0.01em;
 	margin-bottom: 1em;
@@ -421,7 +421,7 @@ a:hover, a:focus {
 
 #customers ul li div {
 	font: normal 400 1.1em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
-	color: #919191;
+	color: #818181;
 	letter-spacing: -0.02em;
 }
 
@@ -484,7 +484,7 @@ a:hover, a:focus {
 #article-nav p {
 	font: normal 400 1em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
 	float: left;
-	color: #919191;
+	color: #818181;
 	line-height: 1em;
 	margin-bottom: 0;
 }
