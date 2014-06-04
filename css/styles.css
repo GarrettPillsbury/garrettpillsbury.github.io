@@ -323,7 +323,7 @@ a:hover, a:focus {
 #main-content ul {
 	font: normal 400 1.1em "rooney-web", Helvetica Neue, Arial, sans-serif;
 	color: #4A4A4A;
-	line-height: 1.6em;
+	line-height: 1.5em;
 	margin: 1em 0 1em;
 	padding-left: 1.2em;
 	letter-spacing: -0.01em;
@@ -331,7 +331,7 @@ a:hover, a:focus {
 }
 
 #main-content ul li {
-	margin-bottom: 0.2em;
+	margin-bottom: 0.3em;
 }
 
 #people {
