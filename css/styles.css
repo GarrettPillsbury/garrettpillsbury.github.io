@@ -329,7 +329,7 @@ a:hover, a:focus {
 	list-style: disc inside none;
 }
 
-#main-content ul li p {
+#main-content ul li span {
 	display: block;
 }
 
