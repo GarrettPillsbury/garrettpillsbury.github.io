@@ -125,9 +125,9 @@ h4 {
 	padding: 2em 0 0.5em;
 	text-align: center;
 
-	-webkit-font-smoothing: none;
-	-moz-font-smoothing: none;
-	font-smoothing: none;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-font-smoothing: subpixel-antialiased;
+	font-smoothing: subpixel-antialiased;
 }
 
 p {
