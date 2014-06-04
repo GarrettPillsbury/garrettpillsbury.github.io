@@ -325,8 +325,13 @@ a:hover, a:focus {
 	color: #4A4A4A;
 	line-height: 1.6em;
 	margin: 1em 0 1em;
+	padding-left: 1.2em;
 	letter-spacing: -0.01em;
-	list-style: disc inside none;
+	list-style: disc outside none;
+}
+
+#main-content ul li {
+	margin-bottom: 0.2em;
 }
 
 #people {
