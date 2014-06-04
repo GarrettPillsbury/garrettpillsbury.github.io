@@ -329,8 +329,8 @@ a:hover, a:focus {
 	list-style: disc inside none;
 }
 
-#main-content ul li {
-	display: table-row;
+#main-content ul li p {
+	display: block;
 }
 
 #people {
