@@ -118,10 +118,18 @@ h3 {
 	text-align: center;
 }
 
+h4 {
+	font: italic 400 1em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
+	color: #919191;
+	line-height: 1.3em;
+	padding: 2em 0 0.5em;
+	text-align: center;
+}
+
 p {
 	font: normal 400 1.25em "rooney-web", Helvetica Neue, Arial, sans-serif;
 	color: #2A2A2A;
-	line-height: 1.5em;
+	line-height: 1.6em;
 	margin-bottom: 1em;
 }
 
@@ -306,6 +314,15 @@ a:hover, a:focus {
 
 #main-content p {
 	letter-spacing: -0.01em;
+}
+
+#main-content ul {
+	font: normal 400 1.1em "jaf-facitweb", Helvetica Neue, Arial, sans-serif;
+	color: #2A2A2A;
+	line-height: 1.6em;
+	margin: 1em 0 1em;
+	letter-spacing: -0.01em;
+	list-style: disc inside none;
 }
 
 #people {
