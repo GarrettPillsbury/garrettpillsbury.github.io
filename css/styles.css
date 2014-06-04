@@ -329,6 +329,10 @@ a:hover, a:focus {
 	list-style: disc inside none;
 }
 
+#main-content ul li {
+	display: table-row;
+}
+
 #people {
 	padding: 3em 0 1em;
 }
